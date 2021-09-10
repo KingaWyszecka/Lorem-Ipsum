@@ -1,0 +1,66 @@
+.mainfont {
+	font-family: comic sans ms;
+	margin-left:200px;
+	margin-right: 200px;
+	margin-top: 150px;
+	text-align: center;
+}
+
+.kraje {
+	font-size: 12px;
+	position: relative;
+	color: black;
+}
+
+.p0 {
+	margin-top: 10px;
+	font-size: 60px;
+	margin-bottom:10px;
+}
+
+.p1 {
+	position: relative;
+	font-size: 15px;
+	margin-bottom: 0px;
+}
+
+.p2 {
+	position: relative;
+	font-size: 13px;
+	margin-top: 0px;
+}
+
+.artykul {
+	text-align: justify;
+}
+
+.info {
+	position: relative;
+	text-align: left;
+}
+
+.dane {
+	text-align: center;
+	font-size:14px;
+}
+
+/*
+a{
+	padding: 1px 6px 1px 22px;
+}
+*/
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: red;
+}
+
+a:active {
+	color: black;
+}
